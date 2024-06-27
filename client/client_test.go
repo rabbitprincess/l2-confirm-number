@@ -18,6 +18,7 @@ func TestBlockNumber(t *testing.T) {
 		{"blast", "https://rpc.blast.io"},
 		{"optimism", "https://optimism-rpc.publicnode.com"},
 		{"manta", "https://pacific-rpc.manta.network/http"},
+		{"metal", "https://rpc.metall2.com"},
 		{"scroll", "https://rpc.ankr.com/scroll"},
 	} {
 		// var maxConfirmTime uint64 = 0
